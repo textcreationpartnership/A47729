@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of the imperial decree and of the declaration that was delivered to the envoys of the electors, princes and estates of the empire, by Prince Herman of Baden by which the late insinuations of the papists do's appear wholly groundless, (viz.) that the Catholick princes were grown jealous of his Royal Highness the Prince of Orange's designs, and that therefore a peace would speedily be concluded between his Imperial Majesty and France, and a league of all the Catholick princes ensue, for maintenance of the Romish religion.</title>
+            <author>Holy Roman Empire. Emperor (1657-1705 : Leopold I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47729</idno>
+            <idno type="STC">Wing L1114A</idno>
+            <idno type="STC">ESTC R229258</idno>
+            <idno type="EEBO-CITATION">27359031</idno>
+            <idno type="OCLC">ocm 27359031</idno>
+            <idno type="VID">110080</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47729)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110080)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1725:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of the imperial decree and of the declaration that was delivered to the envoys of the electors, princes and estates of the empire, by Prince Herman of Baden by which the late insinuations of the papists do's appear wholly groundless, (viz.) that the Catholick princes were grown jealous of his Royal Highness the Prince of Orange's designs, and that therefore a peace would speedily be concluded between his Imperial Majesty and France, and a league of all the Catholick princes ensue, for maintenance of the Romish religion.</title>
+                  <author>Holy Roman Empire. Emperor (1657-1705 : Leopold I)</author>
+                  <author>Leopold William, Count of Honningreck-Combruck.</author>
+                  <author>Hermann, Markgraf von Baden, 1628-1691.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Wallis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Grand Alliance, War of the, 1689-1697.</term>
+               <term>Holy Roman Empire --  Foreign relations --  France.</term>
+               <term>France --  Foreign relations --  Holy Roman Empire.</term>
+               <term>Great Britain --  History --  Revolution of 1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="imperial_decree">
+            <pb n="1" facs="tcp:110080:1"/>
+            <!-- PDF PAGE 20 -->
+            <head>A <hi>True Copy of the Imperial Decree, and of the Declaration that was delivered to the Envoys of the Electors, Princes and Eſtates of the Empire, by Prince</hi> Herman <hi>of</hi> Baden: <hi>By which the late Inſinuations of the</hi> Papiſts <hi>do's appear wholly groundleſs.</hi> (viz.) That the Catholick Princes were grown jealous of his Royal Highneſs the Prince of <hi>Orange</hi>'s Deſigns, and that therefore a Peace would ſpeedily be Concluded between his <hi>Imperial Ma<g ref="char:EOLhyphen"/>jeſty</hi> and <hi>France,</hi> and a League of all the Catholick Princes enſue, for maintenance of the <hi>Romiſh-Religion.</hi>
+            </head>
+            <div xml:lang="eng" type="version">
+               <head>DECREE of his Imperial Majeſty againſt the <hi>French</hi> Miniſters.</head>
+               <p>BY the Expreſs Command, and in the Name of his moſt Sacred Im<g ref="char:EOLhyphen"/>perial Majeſty, Our moſt Graci<g ref="char:EOLhyphen"/>ous Lord; This is to give notice to the <hi>French Plenipotentiary</hi> Reſiding at <hi>Ratisbon,</hi> That as it is manifeſt to the whole Chri<g ref="char:EOLhyphen"/>ſtian World, and to himſelf particularly, how unjuſtly of late, His Moſt Serene Majeſty the King of <hi>France,</hi> has broken the Truce for twenty years, and without any Previous Declaration of War, has on a Sudden, and in an Hoſtile manner, ſet upon His Sacred Imperial Majeſty, and the Electors, Princes and States of the Empire, who ſuſpected nothing leſs, being wholy taken up with the Proſecu<g ref="char:EOLhyphen"/>tion of a War againſt the Common Enemy of Chriſtendom. Nor was he content partly by Force to ſubdue, and partly by Fire and Sword, to lay waſte a great many Citties, Villages and Towns, But not ſparing the Seat of Juſtice it ſelf; he ſeized upon <hi>Spire,</hi> the Imperial Cham<g ref="char:EOLhyphen"/>ber, and cauſed the Publick Deeds, Writing and Records, pertaining to all the Electors, Princes and States, of the Sacred <hi>Roman</hi> Empire, and their Inno<g ref="char:EOLhyphen"/>cent Subjects, to be Sealed up, and as we are given to underſtand, to be carried a<g ref="char:EOLhyphen"/>way to <hi>Strasbourgh;</hi> And further he con<g ref="char:EOLhyphen"/>tinues to exerciſe all manner of Hoſtility againſt thoſe that are within the reach of his Army. Since then by this very Fact, His Moſt Chriſtian Majeſty has declared himſelf the Capital Enemy of the whole <hi>Roman</hi> Empire, and therefore His Sacred Imperial Majeſty thinks it no longer rea<g ref="char:EOLhyphen"/>ſonabe to ſuffer the aforeſaid <hi>French Plenitopentiary</hi> to reſide in any of his Courts or Teritories, both as he is the
+<pb n="2" facs="tcp:110080:2" rendition="simple:additions"/>
+                  <!-- PDF PAGE 21 -->Miniſter of his declar'd Enemy, &amp; as he has in an Eminent Degree, found him to have labor'd nothing more then to create Diſturbances in the Empire, and miſun<g ref="char:EOLhyphen"/>derſtanding amongſt the ſeveral Mem<g ref="char:EOLhyphen"/>bers of the ſame, ſo as to endeavour to divide them from their Supreme Head. I am therefore Commanded by theſe Preſents, to Signify to him the ſaid <hi>Plen<g ref="char:EOLhyphen"/>ipotentiary,</hi> that he depart from <hi>Ratisbon,</hi> together with his <hi>Domeſticks,</hi> and all that appertains to him within the ſpace of three days, to be computed from the noti<g ref="char:EOLhyphen"/>fication hereof; And that he retire in the ſpace of 14 days more, out of the Borders of the whole <hi>Roman</hi> Empire; to this end His Imperial Majeſty, tho after ſo high and manifeſt a Violation of the Law of Nations, by the <hi>French,</hi> in carrying away the Acts and Records of the Imperial Chamber, He might juſtly detain him and ſeize his Papers, yet he has been pleaſed to give him Safe-conduct, and all manner of ſecurity for his Journey, but which is to ceaſe and determine when the time before mentioned ſhall be ex<g ref="char:EOLhyphen"/>pired.</p>
+               <closer>
+                  <dateline>Order'd and Sign'd at <hi>Vienna,</hi> un<g ref="char:EOLhyphen"/>der the Privy Seal of His Sacred Imperial Majeſty, <date>this ninth day of <hi>December,</hi> 1688.</date>
+                  </dateline>
+The Seals place. <signed>
+                     <hi>Leopold William</hi> Count of <hi>Honnigreck. Combruck.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="version">
+               <head>Decretum Sacrae Ceſarea Majeſtatis.</head>
+               <p>SAcrae Caeſareae Majeſtatis Domini Noſtri Clementiſſimi juſſu, Et no<g ref="char:EOLhyphen"/>mine <hi>Plenipotentiario</hi> Gallico <hi>Ratis<g ref="char:EOLhyphen"/>bonnae</hi> commoranti hiſce ſignificandum, ipſi non minus ac univerſo Chriſtiano orbi manifeſtum eſſe, quam inique Nuper ſereniſſimus Galliae Rex (rupto armiſtitii vicennalis foedere; Nulla den<g ref="char:EOLhyphen"/>untiatione praevia Sacram Ceſaream Majeſtatem &amp; Imperii Electoris, Prin<g ref="char:EOLhyphen"/>cipes ac Status, nihil tale ſuſpicantes, belloque contra communem Chriſtiani nominis hoſtem proſequendo intentos) Hoſtilibus Armis improviſo adortus ſit, &amp; non tantum plures urbes, pagos &amp; oppida tum vi ſubegerit, tum ferro, flammaque deveſtaverit, ſed nec juſt<g ref="char:EOLhyphen"/>itiae ſacris parcendo ſpiram, Nemetum diſcaſterii Imperialis ſedem occupaverit, &amp; acta ſcriptaque publica ad univerſos ſacri Romani Imperii Electores, Prin<g ref="char:EOLhyphen"/>cipes &amp; Status eorumdemque innocentes ſubditos pertinentia obſignari, &amp; ut fa<g ref="char:EOLhyphen"/>ma fert argentoratum abduci fecerit denique nihil non Hoſtilitatis in eos, quos Armis ſuis attingere poteſt exer<g ref="char:EOLhyphen"/>cere pergat: Cum itaque Rex Chriſti<g ref="char:EOLhyphen"/>aniſſimus hoc ipſo ſuo facto ſe Capi<g ref="char:EOLhyphen"/>talem totius ſacri Romani Imperii Hoſt<g ref="char:EOLhyphen"/>em declaarverit, &amp; proinde ſua ſacra Caeſarea Majeſtas Prefatum <hi>Plenipo<g ref="char:EOLhyphen"/>tentiarium</hi> Gallicum, ut pote declarati hoſtis Miniſtrum tanto minus in comi<g ref="char:EOLhyphen"/>tiis, terriſque Imperii diutius tolerandum Cenſeat quod eundem turbandae Reipub<g ref="char:EOLhyphen"/>licae,
+<pb n="2" facs="tcp:110080:2" rendition="simple:additions"/>
+                  <!-- PDF PAGE 21 -->&amp; ſeminandis inter Imperii Status diffidentiis, eis denique a ſupremo ſuo<g ref="char:EOLhyphen"/>capite alienandis unice hactenus ſtudere compererit; hinc denique Juſſiit, hiſce eidem indicari ut intra triduum a die inſinuationis computandum una cum ſuis domeſticis &amp; quidquid ad illum pertinu<g ref="char:EOLhyphen"/>erit Ratisbona excedat, &amp; ſpatio ſe<g ref="char:EOLhyphen"/>quentium quatuor decim dierum extra Romani imperii fines ſeſe recipiat, quem in finem ſua Ceſarea Majeſtas eundem appoſito ſalvo conductu, tametſi alias poſt violata tam enormiter ex parte Galliae gentium ſura &amp; ablata Dicaſterii imperii acta non injuria una cum ſcrip<g ref="char:EOLhyphen"/>tis ſuis detineri poſſet, denique munire, eidemque omnem in itinere ſue ſecuri<g ref="char:EOLhyphen"/>tatem, elapto tamen termino ceſſaturam</p>
+               <closer>
+                  <dateline>impertiri voluit ſignatum Viennae ſub ſigillo altiſſimae memoratae ſacrae Ceſareae Majeſtatis ſecreto, <date>nono die menſis de<g ref="char:EOLhyphen"/>cembris, 1688.</date>
+                  </dateline> L.S.
+<signed>
+                     <g ref="char:V">Ʋ</g>t Leopoldus Wilhelmus. Comes in Honigreck. Combrick </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="declaration">
+            <div xml:lang="eng" type="version">
+               <opener>
+                  <dateline>Given at <hi>Ratisbon</hi> 
+                     <date>this 15. Day of <hi>December,</hi> 1688.</date>
+                  </dateline>
+               </opener>
+               <p>HIS Imperial Majeſty has given Order to his Highneſs Prince <hi>Herman</hi> of <hi>Baden,</hi> his Pleni<g ref="char:EOLhyphen"/>potentiary at the Diet at <hi>Ratisbon,</hi> to make known by theſe preſents, to the Envoys of the Electors, Princes and States of the Empire here Aſſembled, The weighty and important Reaſons which have perſwaded him to diſmiſs <hi>Monſieur</hi> the Count of <hi>Lu<g ref="char:EOLhyphen"/>ſignan</hi> Envoy of <hi>France</hi> to the Court at <hi>Vienna;</hi> As alſo Mounſieur the Count <hi>de Cr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſy</hi> Plenipotentiary of his moſt Chriſtian Majeſty, at the Diet at <hi>Ratisbon,</hi> to which end, his imperial <hi>Majeſty</hi> has given Order to furniſh him with a Paſſe-port, in which, the way he is to take is appointed him, and from which, for his greater Security he is not to deviate, nor to de<g ref="char:EOLhyphen"/>lay his departure for any longer time, than is there<g ref="char:EOLhyphen"/>in allowed him. Whereupon his above mentioned Highneſs remains moſt Affectionate to the Envoys of the Electors, Princes, and States of the Empire.</p>
+               <closer>
+                  <dateline>Signed at <hi>Ratisbon,</hi> 
+                     <date>the 14. day of<hi>December,</hi> 1688.</date>
+                  </dateline>  The Seals place <signed>
+                     <hi>Herman</hi> Marqueſs of <hi>Baden.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="version">
+               <opener>
+                  <dateline>Donne a <hi>Ratisbonne,</hi> 
+                     <date>le 15 jour de <hi>Decembre,</hi> 1688.</date>
+                  </dateline>
+               </opener>
+               <p>SA Majeſte Imperiale a donne ordre a ſon Alteſſe le Prince <hi>Herman de Baden,</hi> ſon Plenipotentiaire a la Diette de <hi>Ra<g ref="char:EOLhyphen"/>tisbonne,</hi> de faire ſcavoir par ces preſentes aux Envoyes des Electeurs, Princes, &amp; Etats de L'Empire aſſembles icy, Les importantes raiſons, qui L'ont portee a Congedier monſieur Le Conte de Luſig<g ref="char:EOLhyphen"/>nan Envoye de France a Vienne, com<g ref="char:EOLhyphen"/>me auſſy Monſieur Le Conte de Crecy Plenipotentiare de ſa Majeſte tres Chre<g ref="char:EOLhyphen"/>tienne a la diette de <hi>Ratisbonne;</hi> pour cet<g ref="char:EOLhyphen"/>te fin ſa Majeſte imperialle luy a fait donner un paſſeport, par lequel on luy a marque le Chemin qu'il doit tenir, du<g ref="char:EOLhyphen"/>quel pour ſa plus grande ſeurte il ne ſe doir ecarter, ny outre paſſer le terme qui luy eſt preſcript, ſurquoy ſaditto Alteſ<g ref="char:EOLhyphen"/>ſe demeure tres affectionee a meſſieurs les Enuoyes des Electeurs, Princes, &amp; Etats de L'Empire</p>
+               <closer>
+                  <dateline>ſigne a <hi>Ratisbonne</hi> 
+                     <date>le qua<g ref="char:EOLhyphen"/>torizieme Decembre, 1688.</date>
+                  </dateline> L. S.
+<signed>Herman Marqueſs de Baden.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>John Wallis,</hi> in <hi>White Fryars,</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
